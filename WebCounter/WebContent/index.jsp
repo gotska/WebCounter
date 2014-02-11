@@ -7,6 +7,6 @@
 <title>My Web Counter</title>
 </head>
 <body>
-<h1>WebCounter Test Start</h1>
+<h1>WebCounter First Start</h1>
 </body>
 </html>
